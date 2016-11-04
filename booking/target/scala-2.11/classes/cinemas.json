@@ -1,0 +1,61 @@
+{
+  "cinemas": [
+    {
+      "id": "JAM-1",
+      "name": "JAM Multiplex - Shipra, Indirapuram",
+      "halls": [
+        {
+          "id": "AUDI-1",
+          "name": "AUDI 1",
+          "seats": 64
+        },
+        {
+          "id": "AUDI-2",
+          "name": "AUDI 2",
+          "seats": 108
+        },
+        {
+          "id": "AUDI-3",
+          "name": "AUDI 3",
+          "seats": 80
+        }
+      ]
+    },
+    {
+      "id": "PVR-1",
+      "name": "PVR Logix, Noida",
+      "halls": [
+        {
+          "id": "AUDI-1",
+          "name": "AUDI 1",
+          "seats": 164
+        },
+        {
+          "id": "AUDI-2",
+          "name": "AUDI 2",
+          "seats": 100
+        },
+        {
+          "id": "AUDI-3",
+          "name": "AUDI 3",
+          "seats": 180
+        },
+        {
+          "id": "AUDI-4",
+          "name": "AUDI 4",
+          "seats": 70
+        },
+        {
+          "id": "AUDI-5",
+          "name": "AUDI 5",
+          "seats": 56
+        },
+        {
+          "id": "AUDI-6",
+          "name": "AUDI 6",
+          "seats": 112
+        }
+      ]
+    }
+  ]
+}
